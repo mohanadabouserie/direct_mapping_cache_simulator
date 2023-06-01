@@ -14,7 +14,7 @@ To run the cache simulator, follow these instructions:
    g++ cache_simulator.cpp -o cache_simulator
 4. Run the compiled executable: ./cache_simulator
 
-##Usage
+## Usage
 Upon running the cache simulator, it will prompt you to provide the cache size, line size, and the number of access cycles needed to access the cache. Follow the on-screen instructions and enter the required values.
 
 The simulator expects the memory addresses to be stored in a file named addresses.txt. Make sure to create this file and populate it with the memory addresses you want to simulate.
