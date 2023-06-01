@@ -1,5 +1,0 @@
-May 17: built (with the group) the main structure for the code and the data structures used inside the code
-May 18: added the constructor and accessMemory function
-May 18: fixed errors with the code
-May 19: fixed errors with the code
-May 21: made the demo video for the project

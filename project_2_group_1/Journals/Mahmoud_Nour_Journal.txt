@@ -1,3 +1,0 @@
-May 17: Built (with the group) the main structure for the code and the data structures used inside the code.
-May 18: Constructed simulate, and run_code functions.
-May 21: Wrote project report.
