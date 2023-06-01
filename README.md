@@ -1,6 +1,6 @@
 # direct_mapping_cache_simulator
 
-This project is a cache simulator implemented in C++. It simulates the behavior of a cache memory system and calculates cache hits, misses, hit ratio, miss ratio, and average memory access time (AMAT).
+This project is a cache simulator implemented in C++. It simulates the behavior of a cache memory system and calculates cache hits, misses, hit ratio, miss ratio, and average memory access time (AMAT). It assumes that the main memory is 4 GB.
 
 ## Getting Started
 
